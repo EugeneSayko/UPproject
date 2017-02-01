@@ -1,0 +1,11 @@
+commit 3c55640f79a7cdc53470a02b05f78a02ae58bef4
+Author: EugeneSayko <eugene.sayko@gmail.com>
+Date:   Wed Feb 1 12:48:10 2017 +0300
+
+    add status.txt
+
+commit 5bdad09ed39e695dded6aaa456317852b669fa47
+Author: EugeneSayko <eugene.sayko@gmail.com>
+Date:   Wed Feb 1 12:46:20 2017 +0300
+
+    add .gitignore
